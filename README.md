@@ -11,7 +11,7 @@ The mean square displacement (MSD) was analyzed using Sojourner[1] R package acc
 ## Cell migrating trajectories 
 The Matlab scripts in the folder Migration-random/wound cell trace were used for the data visulization of cell migrating trajectories. ---The related file are 'Migration-random-Cell trace-Fig S3-A' and 'Migration-wound-Cell trace-Fig2-B'.
 ## The analysis of Cdc42 biosensor
-The Matlab scripts and R scripts in Fig 1 and Fig S2 were used. 1. The R and python scripts were used for the data wrangling and Matlab scripts used for analysis of crosscoefficiency between Biosensor and edge velocity, and autocorrelation analysis the periodity of biosensor and edge movements. The Fig 1 and Fig S2 Cdc42 biosensor analysis, we first used the u-registration software from Danuser Lab Software from github. All Matlab code was run using Matlab Version R2024a. ---The related file are 'Matalab codes-Fig 1 D-J-Fig S2', 'Python code_txt_wrangling-Fig 1 D-J-Fig S2' and 'R code_needed for data analysis-Fig 1 D-J-Fig S2'.
+The Matlab scripts and R scripts in Fig 1 and Fig S2 were used. 1. The R and python scripts were used for the data wrangling and Matlab scripts used for analysis of crosscoefficiency between Biosensor and edge velocity, and autocorrelation analysis the periodity of biosensor and edge movements. The Fig 1 and Fig S2 Cdc42 biosensor analysis, we first used the u-registration software from Danuser Lab Software from github (https://github.com/DanuserLab/u-register). All Matlab code was run using Matlab Version R2024a. ---The related file are 'Matalab codes-Fig 1 D-J-Fig S2', 'Python code_txt_wrangling-Fig 1 D-J-Fig S2' and 'R code_needed for data analysis-Fig 1 D-J-Fig S2'.
 
 The example .csv file was included in each file.
 
